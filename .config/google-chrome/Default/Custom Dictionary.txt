@@ -1,0 +1,2 @@
+stratgety
+checksum_v1 = df48d0d48ac422fd75db79f440cfedae

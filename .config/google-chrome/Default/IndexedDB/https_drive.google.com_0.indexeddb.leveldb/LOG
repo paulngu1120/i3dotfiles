@@ -1,0 +1,18 @@
+2019/12/08-11:08:34.224 3c2 Reusing MANIFEST /home/pauly/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/12/08-11:08:34.224 3c2 Recovering log #289
+2019/12/08-11:08:34.228 3c2 Reusing old log /home/pauly/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000289.log 
+2019/12/08-11:08:39.081 403 Compacting 2@0 + 2@1 files
+2019/12/08-11:08:39.156 403 Generated table #292@0: 310 keys, 8384732 bytes
+2019/12/08-11:08:39.177 403 Generated table #293@0: 20 keys, 636962 bytes
+2019/12/08-11:08:39.177 403 Compacted 2@0 + 2@1 files => 9021694 bytes
+2019/12/08-11:08:39.186 403 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/12/08-11:08:39.186 403 Delete type=2 #286
+2019/12/08-11:08:39.186 403 Delete type=2 #288
+2019/12/08-11:08:39.186 403 Delete type=2 #285
+2019/12/08-11:08:39.186 403 Delete type=2 #290
+2019/12/08-11:08:40.061 403 Level-0 table #295: started
+2019/12/08-11:08:40.085 403 Level-0 table #295: 1204910 bytes OK
+2019/12/08-11:08:40.097 403 Delete type=0 #289
+2019/12/08-11:08:40.472 403 Level-0 table #297: started
+2019/12/08-11:08:40.500 403 Level-0 table #297: 1226077 bytes OK
+2019/12/08-11:08:40.512 403 Delete type=0 #294

@@ -1,0 +1,25 @@
+2019/12/08-11:08:28.129 32c Reusing MANIFEST /home/pauly/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2019/12/08-11:08:28.130 32c Recovering log #63
+2019/12/08-11:08:28.136 32c Reusing old log /home/pauly/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000063.log 
+2019/12/08-11:11:29.518 70b Level-0 table #67: started
+2019/12/08-11:11:29.543 70b Level-0 table #67: 1974212 bytes OK
+2019/12/08-11:11:29.553 70b Delete type=0 #63
+2019/12/08-11:13:29.490 70b Level-0 table #69: started
+2019/12/08-11:13:29.513 70b Level-0 table #69: 1444293 bytes OK
+2019/12/08-11:13:29.526 70b Delete type=0 #66
+2019/12/08-11:28:31.163 70b Level-0 table #71: started
+2019/12/08-11:28:31.188 70b Level-0 table #71: 1975298 bytes OK
+2019/12/08-11:28:31.202 70b Delete type=0 #68
+2019/12/08-11:28:31.202 70b Compacting 4@0 + 3@1 files
+2019/12/08-11:28:31.246 70b Generated table #72@0: 14 keys, 2456383 bytes
+2019/12/08-11:28:31.288 70b Generated table #73@0: 11 keys, 2710645 bytes
+2019/12/08-11:28:31.311 70b Generated table #74@0: 9 keys, 439536 bytes
+2019/12/08-11:28:31.312 70b Compacted 4@0 + 3@1 files => 5606564 bytes
+2019/12/08-11:28:31.322 70b compacted to: files[ 0 3 1 0 0 0 0 ]
+2019/12/08-11:28:31.322 70b Delete type=2 #61
+2019/12/08-11:28:31.322 70b Delete type=2 #67
+2019/12/08-11:28:31.322 70b Delete type=2 #69
+2019/12/08-11:28:31.322 70b Delete type=2 #60
+2019/12/08-11:28:31.322 70b Delete type=2 #62
+2019/12/08-11:28:31.322 70b Delete type=2 #71
+2019/12/08-11:28:31.322 70b Delete type=2 #64

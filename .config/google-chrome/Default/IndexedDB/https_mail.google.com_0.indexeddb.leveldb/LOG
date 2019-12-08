@@ -1,0 +1,9 @@
+2019/12/08-11:08:31.581 32c Reusing MANIFEST /home/pauly/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/12/08-11:08:31.581 32c Recovering log #21
+2019/12/08-11:08:31.583 32c Reusing old log /home/pauly/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000021.log 
+2019/12/08-11:08:34.958 403 Compacting 1@1 + 1@2 files
+2019/12/08-11:08:34.970 403 Generated table #24@1: 174 keys, 83053 bytes
+2019/12/08-11:08:34.970 403 Compacted 1@1 + 1@2 files => 83053 bytes
+2019/12/08-11:08:34.980 403 compacted to: files[ 0 0 1 0 0 0 0 ]
+2019/12/08-11:08:34.980 403 Delete type=2 #19
+2019/12/08-11:08:34.980 403 Delete type=2 #22

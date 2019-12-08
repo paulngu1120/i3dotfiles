@@ -1,0 +1,48 @@
+{
+   "checksum": "49f00a6505e0914c54529f64f7e49afb",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13218673694779248",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13218673694779251",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13072417650511000",
+            "guid": "d706d1ac-effe-48a4-aac7-4d095f629a79",
+            "id": "5",
+            "name": "The Best Sites to Learn Programming",
+            "type": "url",
+            "url": "http://www.improgrammer.net/the-best-sites-to-learn-programming/"
+         }, {
+            "date_added": "13182571174110633",
+            "guid": "16f352b2-0923-4196-b613-4537b1a4f4ce",
+            "id": "6",
+            "name": "javascript - Communicate data from popup to content script injected by popup with executeScript() - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/40645538/communicate-data-from-popup-to-content-script-injected-by-popup-with-executescri/40666096"
+         } ],
+         "date_added": "13218673694779252",
+         "date_modified": "13182571174110633",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CvgBCtcBCIiBAhLAARKMAQgCEk4KBgoCYm0QARAzGhIJgDI/sMCXBQAhgDI/sMCXBQAiFAmVSHO/wJcFABADGXmuahhsm6UVMhgKFggCEf0Yhb/AlwUAGAAhAAAAAAAAAAASOAoGCgJiZBAAEDMaEgmAMj+wwJcFACGAMj+wwJcFADIYChYIAhHeeYW/wJcFABgAIQAAAAAAAAAAIAAyHzQ3UTJGUHYwZS1nUWNIcmJ1TERWa3ZwTEdWaGUzaFlI45LwuugtcOOS8LroLSoOEAAYASAAKAAwADgAQAASACABKhgzUnBIMkNxc2FiNHlNWlhTZ0twKzhBPT0SiQIIBRKEAhKmAVo6QURxdEFaeGR3NG12bHA3OHpDRFpsb044QS9BZHNQQnF3a1ZBOEFvQU12NTYyZUF6MVc0VTErZ2RJZTczOE42T3VwOURPOWY4VUMyMUxWQVVMa3FzbnVrTVNiYldwOFFPUWkramtQQUk3bkEzRWNGZWJwQW9IblJnYUFJTEVFYi9Mb0txZHNiOGJQclYzS3U3QjJBZUR0WmdWNXFEVGtDRVp3PT0YACAAKAAw/46siKGp5QI4ur+er94tQLq/nq/eLUocU2dJaXVlK3E3RWhTMnoxU1FNa01KRmhKTlQ0PVoeIhx3b3hWVjBKcFNqcEZwbmJkRStCTmtsaUhSNjg9EooCCAYShQISpgFaOkFEcXRBWnhkdzRtdmxwNzh6Q0RabG9OOEEvQWRzUEJxd2tWQThBb0FNdjU2MmVBejFXS0JQK2tpVVJTZVhyNzk3TTJZZGJBMG91SmlWcnZHdVBFVkhDNE1JUU54ekFqeE9GQUlzSGZ6d3hOZGVGMmQ1Q1B3cUdXMGhTbjBXWGVyNldaMGs1QXh4YUpiNmFwTVdZekw5bHlhaE1KWHJOT3RoQT09GAAgACgAMP+OrIihqeUCOLq/nq/eLUC6v56v3i1KHFVjQ21XWmFBalZNVTRHTkliZHgzc245Y0N3VT1aHyIdu3Y5TXZCY3pVdlJPYndYcHNHNWhWS3NrelRrND0SxgEIAxLBARJmWjpBRHF0QVp5RVAzZVlZeWN5ZzV1cHRIMlhmeWVBMnR2VWpBS2I1V0d6RzhhNEFhWXprWlEyNEZLYy9xdGFJTEtzVFF5b0QzUUJib095STg4TXNvVk5McWs2KzJub3FKZ2RkZz09GAAgACgAMJSRzfuL+OUCOABAAEocNzlsK0xSRVVwaWFFdkREK0c0M2NwWFN0d0JjPVomIiSAAAAAAAAAAB6FCHV0xJrh2syRvV6YU1xNlDOzdccvUXdDBX8SrgEIARKpARJOWjpBRHF0QVp6UEdlWmtWbXo5MEdYOHJ5OEVIUitxTXZvOEJreW5EUHpYaVVSVHBBTXhZd0wrakRERml2SmtkSFJhNEdpU1hPV0MxY2NFGAAgACgAMJSRzfuL+OUCOABAAEocVStHR0l0WkVEcFpzSVNsT1VhSVR1SUxkTW5JPVomIiSAAAAAAAAAAM1LoABK8oXCbV9M7V6Q3MGywWbGFRS8VcjQQH8SxgEIAhLBARJmWjpBRHF0QVp6ajFzZjNnVlhPbDVhME45RDNCZXcyL2tFMVAyV3NDSURWQldza2lueHg2bmRsb2Y2R3oyTnNYeEt5eGdQcVJtVnN4UjVWZUxqVmVpR3dpUU5zM1ptRTdlckNBZz09GAAgACgAMJSRzfuL+OUCOABAAEocNXVzeS9jcGZwaTFFdG9CSERnWElzMHFiNHJBPVomIiSAAAAAAAAAALt2uZY9zMM4b5AfuovoshO6MYayHIh35lWerH8=",
+   "version": 1
+}

@@ -1,0 +1,6 @@
+2019/12/03-17:19:41.161 54d Reusing MANIFEST /home/pauly/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/12/03-17:19:41.162 54d Recovering log #16
+2019/12/03-17:19:41.178 54d Reusing old log /home/pauly/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000016.log 
+2019/12/03-17:19:55.066 66c Level-0 table #22: started
+2019/12/03-17:19:55.088 66c Level-0 table #22: 1474974 bytes OK
+2019/12/03-17:19:55.100 66c Delete type=0 #16

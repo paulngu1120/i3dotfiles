@@ -1,0 +1,12 @@
+2019/12/01-23:04:47.887 e20f Reusing MANIFEST /home/pauly/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/12/01-23:04:47.888 e20f Recovering log #35
+2019/12/01-23:04:47.890 e20f Reusing old log /home/pauly/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000035.log 
+2019/12/01-23:32:56.983 eb1c Level-0 table #40: started
+2019/12/01-23:32:57.018 eb1c Level-0 table #40: 2797878 bytes OK
+2019/12/01-23:32:57.028 eb1c Delete type=0 #35
+2019/12/01-23:41:08.985 eb1c Compacting 1@1 + 1@2 files
+2019/12/01-23:41:09.002 eb1c Generated table #41@1: 38 keys, 12678 bytes
+2019/12/01-23:41:09.002 eb1c Compacted 1@1 + 1@2 files => 12678 bytes
+2019/12/01-23:41:09.012 eb1c compacted to: files[ 0 0 1 0 0 0 0 ]
+2019/12/01-23:41:09.012 eb1c Delete type=2 #37
+2019/12/01-23:41:09.012 eb1c Delete type=2 #40
